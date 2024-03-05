@@ -1,4 +1,4 @@
-Rest Assured With Java
+**Rest Assured With Java**
 
 => Melakukan rest assured dengan menggunakan API berikut :
 - https://reqres.in
