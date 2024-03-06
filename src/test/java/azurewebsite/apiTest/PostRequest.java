@@ -1,11 +1,11 @@
-import io.restassured.RestAssured;
-import org.testng.annotations.Test;
-import org.json.simple.JSONObject;
+package azurewebsite.apiTest;
 
+
+import org.testng.annotations.Test;
 import static io.restassured.RestAssured.given;
 
 
-public class postRequest {
+public class PostRequest {
 
     @Test
     public void postRequest(){

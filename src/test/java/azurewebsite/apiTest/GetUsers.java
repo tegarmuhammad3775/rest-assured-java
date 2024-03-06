@@ -1,9 +1,9 @@
-package azurewebsite;
+package azurewebsite.apiTest;
 import io.restassured.RestAssured;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-public class getUsers {
+public class GetUsers {
     @BeforeClass
     public void setup() {
         //Set base url
