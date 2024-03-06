@@ -3,7 +3,7 @@ package azurewebsite.apiTest;
 import io.restassured.RestAssured;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
-public class GetRequest {
+public class GetRequest{
     @BeforeClass
     public void setup() {
         //Set base url
